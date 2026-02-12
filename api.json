@@ -1,0 +1,728 @@
+{
+  "category": "ANOMALY",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/doppelganger",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "doppelganger",
+    "name": "Doppelgänger",
+    "aliases": [
+      {
+        "name": "Double",
+        "language": "English",
+        "region": "Global"
+      },
+      {
+        "name": "Fetch",
+        "language": "Irish",
+        "region": "Ireland",
+        "meaning": "Death omen double"
+      },
+      {
+        "name": "Vardøger",
+        "language": "Norse",
+        "region": "Scandinavia",
+        "meaning": "Premonitory double"
+      },
+      {
+        "name": "Etiäinen",
+        "language": "Finnish",
+        "region": "Finland",
+        "meaning": "Spirit predecessor"
+      },
+      {
+        "name": "Ka",
+        "language": "Ancient Egyptian",
+        "region": "Egypt",
+        "meaning": "Spiritual double"
+      }
+    ],
+    "category": "ANOMALY",
+    "subcategory": "Duplicate Phenomenon",
+    "tags": [
+      "duplicate",
+      "double",
+      "apparition",
+      "bilocation",
+      "death-omen",
+      "neurological",
+      "psychological",
+      "global-phenomenon"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "The duplicate or double of a living person, appearing as an exact replica. May be seen by the person themselves or by others, often considered an omen of death or misfortune in traditional folklore.",
+      "full": "A doppelgänger (German for 'double-goer' or 'double-walker') is the apparitional double or duplicate of a living person. The phenomenon manifests in several forms: individuals seeing their own double (autoscopy), others witnessing someone in two places simultaneously (bilocation), or crisis apparitions where doubles appear at moments of danger or death. Historically considered an omen of death or bad luck, the doppelgänger phenomenon spans cultures worldwide and has been documented throughout history, from ancient folklore to modern neurological case studies. Famous historical cases include Goethe meeting himself on a road, Abraham Lincoln's double reflection, and the extensively documented case of teacher Emilie Sagée (1845-46). Modern science recognizes some doppelgänger experiences as neurological conditions (autoscopy, heautoscopy) while others remain unexplained, bridging paranormal, psychological, and potentially quantum phenomena."
+    },
+    "etymology": {
+      "origin": "German compound word 'doppelgänger' from 'doppel' (double) and 'gänger' (goer/walker)",
+      "meaning": "Double-goer or double-walker - one who walks alongside",
+      "first_use": "1796, introduced by German writer Jean Paul Richter in novel 'Siebenkäs'"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ANOMALY",
+      "type": "Duplicate Phenomenon",
+      "subtype": "Apparitional",
+      "variant": "Global"
+    },
+    "related_phenomena": [
+      {
+        "id": "bilocation",
+        "name": "Bilocation",
+        "relationship": "overlapping",
+        "description": "Being in two places simultaneously, often reported in religious contexts"
+      },
+      {
+        "id": "astral-projection",
+        "name": "Astral Projection",
+        "relationship": "related",
+        "description": "Out-of-body experience where consciousness travels separately"
+      },
+      {
+        "id": "crisis-apparition",
+        "name": "Crisis Apparition",
+        "relationship": "variant",
+        "description": "Apparition appearing at moment of death or danger"
+      },
+      {
+        "id": "autoscopy",
+        "name": "Autoscopy",
+        "relationship": "neurological_explanation",
+        "description": "Neurological condition of seeing one's own body from external perspective"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "manifestation_types": [
+      {
+        "type": "Autoscopy",
+        "description": "Individual sees their own double, typically from external perspective",
+        "frequency": "rare",
+        "context": "Often neurological, during altered states, or spontaneous"
+      },
+      {
+        "type": "Bilocation Witness",
+        "description": "Others see person in two different locations simultaneously",
+        "frequency": "uncommon",
+        "context": "Person usually unaware their double is being seen"
+      },
+      {
+        "type": "Crisis Apparition",
+        "description": "Double appears to loved ones at moment of danger or death",
+        "frequency": "uncommon",
+        "context": "Often occurs during accidents, illness, or trauma"
+      },
+      {
+        "type": "Premonitory Double",
+        "description": "Double appears before the actual person arrives (Vardøger)",
+        "frequency": "rare",
+        "context": "Double performs actions the person will do moments later"
+      }
+    ],
+    "physical": {
+      "appearance": "Exact duplicate of the living person in every detail",
+      "visibility": "Typically visible only to select witnesses",
+      "solidity": "Ranges from fully solid to translucent or shadowy",
+      "duration": {
+        "min": "seconds",
+        "max": "hours",
+        "typical": "minutes"
+      },
+      "behavior": "May mirror original person's actions or act independently"
+    },
+    "characteristics_features": [
+      {
+        "feature": "Exact likeness",
+        "description": "Perfect physical duplicate including clothing and mannerisms",
+        "frequency": "always"
+      },
+      {
+        "feature": "Simultaneous existence",
+        "description": "Original person exists elsewhere while double appears",
+        "frequency": "common"
+      },
+      {
+        "feature": "No interaction",
+        "description": "Double rarely speaks or interacts meaningfully",
+        "frequency": "common"
+      },
+      {
+        "feature": "Emotional effect",
+        "description": "Witnesses experience unease, dread, or uncanny valley sensation",
+        "frequency": "very common"
+      },
+      {
+        "feature": "Death association",
+        "description": "Folklore links seeing one's double to impending death",
+        "frequency": "traditional belief"
+      }
+    ],
+    "behavior": {
+      "interaction_level": "minimal",
+      "awareness": "Double rarely shows awareness of observers",
+      "duration_pattern": "Brief, fleeting appearances",
+      "location_pattern": "Can appear anywhere, no geographic limitation",
+      "temporal_pattern": "No consistent time pattern, often during emotionally significant moments"
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Global phenomenon reported across all cultures and time periods. No geographic concentration; appears universally in human experience.",
+      "continents": ["All"],
+      "countries": ["Global"],
+      "regions": ["Universal"]
+    },
+    "cultural_variants": [
+      {
+        "name": "Fetch (Irish)",
+        "location": "Ireland, Scotland",
+        "description": "Death omen double, seeing it means death within a year",
+        "cultural_significance": "Strong Celtic folklore tradition"
+      },
+      {
+        "name": "Vardøger (Norse)",
+        "location": "Scandinavia",
+        "description": "Premonitory double that arrives before the person, performs their future actions",
+        "cultural_significance": "Common in Norwegian and Icelandic folklore"
+      },
+      {
+        "name": "Ka (Egyptian)",
+        "location": "Ancient Egypt",
+        "description": "Spiritual double born with every person, part of soul complex",
+        "cultural_significance": "Integral to Egyptian theology and afterlife beliefs"
+      },
+      {
+        "name": "Etiäinen (Finnish)",
+        "location": "Finland",
+        "description": "Spirit predecessor, ghostly precursor of living person",
+        "cultural_significance": "Part of Finnish folk belief system"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "Ancient times",
+        "circa": true,
+        "source": "Ancient Egyptian Ka concept, Greek mythology, Norse sagas"
+      },
+      "historical_continuity": "Documented continuously from ancient times through present day",
+      "modern_frequency": "Still reported regularly, though often explained neurologically"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Universal human experience across cultures. Ancient Egyptians believed in the Ka (spiritual double), Greeks had stories of doubles, Norse mythology included Vardøger, Celtic cultures had the Fetch.",
+      "earliest_accounts": "Ancient Egyptian texts (Ka concept), Greek mythology (eidolon), ancient Germanic folklore",
+      "folklore_connections": "Connected to death omens, soul beliefs, spiritual doubles, and concepts of divided self across world cultures."
+    },
+    "timeline": [
+      {
+        "date": "Ancient Egypt (3000+ BCE)",
+        "event": "Ka concept established",
+        "significance": "Egyptian theology includes Ka as spiritual double of every person",
+        "source": "Ancient Egyptian religious texts"
+      },
+      {
+        "date": "Ancient Greece",
+        "event": "Eidolon concept",
+        "significance": "Greeks described spirit images and doubles in mythology and philosophy",
+        "source": "Greek philosophical and mythological texts"
+      },
+      {
+        "date": "1776",
+        "event": "Goethe's double encounter",
+        "significance": "Johann Wolfgang von Goethe reports meeting his own double on horseback",
+        "source": "Goethe's autobiography 'Dichtung und Wahrheit'"
+      },
+      {
+        "date": "1796",
+        "event": "Term 'Doppelgänger' coined",
+        "significance": "Jean Paul Richter introduces word in novel 'Siebenkäs'",
+        "source": "Richter, J.P. 'Siebenkäs'"
+      },
+      {
+        "date": "1845-1846",
+        "event": "Emilie Sagée case",
+        "significance": "French teacher's double repeatedly witnessed by students and staff; extensively documented",
+        "source": "Dale Owen's 'Footfalls on the Boundary of Another World' (1860)"
+      },
+      {
+        "date": "1860",
+        "event": "Abraham Lincoln's double reflection",
+        "significance": "Lincoln sees double reflection in mirror, interprets as death omen",
+        "source": "Historical accounts from Lincoln's associates"
+      },
+      {
+        "date": "1882",
+        "event": "Queen Elizabeth I deathbed double",
+        "significance": "Queen's double seen on bed shortly before her death",
+        "source": "Historical court records"
+      },
+      {
+        "date": "1930s-present",
+        "event": "Neurological research begins",
+        "significance": "Medical science identifies autoscopy and heautoscopy as neurological phenomena",
+        "source": "Neurology and psychiatry journals"
+      },
+      {
+        "date": "1958",
+        "event": "Capgras delusion identified",
+        "significance": "Related neurological condition identified where patients believe loved ones replaced by doubles",
+        "source": "Capgras, J. & Reboul-Lachaux, J. psychiatric research"
+      }
+    ],
+    "modern_era": "Modern understanding combines folklore, neurology, and psychology. Autoscopic phenomena are recognized as neurological conditions affecting brain's body schema, while other cases remain unexplained. The phenomenon continues to be reported and maintains cultural significance in literature, film, and popular culture."
+  },
+
+  "sightings": {
+    "statistics": {
+      "total_documented": 1000,
+      "verified": 0,
+      "neurologically_explained": 150,
+      "unexplained": 700,
+      "folkloric": 150,
+      "date_range": {
+        "earliest": "Ancient times",
+        "latest": "2026"
+      }
+    },
+    "notable": [
+      {
+        "id": "doppelganger-sagee-1845",
+        "name": "Emilie Sagée Double",
+        "date": {
+          "value": "1845-1846",
+          "precision": "year_range"
+        },
+        "location": {
+          "description": "Pensionat von Neuwelcke, Livonia (modern Latvia)",
+          "country": "Latvia",
+          "region": "Livonia",
+          "coordinates": {
+            "latitude": 57.0,
+            "longitude": 25.0,
+            "precision": "approximate"
+          }
+        },
+        "witnesses": {
+          "count": 40,
+          "types": ["Students", "Staff", "Administrators"],
+          "credibility_factors": ["Multiple independent witnesses", "Consistent accounts", "Extended observation period"]
+        },
+        "description": "French teacher Emilie Sagée's double was repeatedly seen by students and staff over 18 months. Witnesses reported seeing her double standing beside her while she wrote on the blackboard, sitting in a chair while she stood across the room, and performing actions she was simultaneously doing elsewhere. In one notable incident, 13 students watched as Sagée's double appeared in her empty chair while she was visible working in the garden outside. The double sometimes moved, sometimes remained motionless. Sagée herself never saw her double and was unaware of its appearances. Despite being an excellent teacher, she was dismissed due to parents' concerns.",
+        "conditions": {
+          "frequency": "Multiple times weekly",
+          "visibility": "Clearly visible to multiple witnesses",
+          "time_of_day": "Various",
+          "duration": "Minutes to hours per incident"
+        },
+        "evidence": [
+          "Testimony from 40+ witnesses",
+          "Written accounts from students",
+          "School records of dismissal",
+          "Dale Owen's investigative documentation"
+        ],
+        "credibility": {
+          "rating": "high",
+          "factors": [
+            "Dozens of independent witnesses",
+            "Consistent descriptions",
+            "Extended time period",
+            "Multiple types of manifestation",
+            "No apparent motive for hoax"
+          ],
+          "notes": "Most extensively documented historical doppelgänger case. Robert Dale Owen investigated and published detailed account in 1860."
+        },
+        "sources": [
+          "Dale Owen, R. (1860). Footfalls on the Boundary of Another World",
+          "Flammarion, C. (1923). Death and Its Mystery"
+        ],
+        "featured": true
+      },
+      {
+        "id": "doppelganger-goethe-1776",
+        "name": "Goethe's Self-Encounter",
+        "date": {
+          "value": "1776",
+          "precision": "approximate"
+        },
+        "location": {
+          "description": "Road near Drusenheim, Alsace",
+          "country": "France/Germany",
+          "region": "Alsace",
+          "coordinates": {
+            "latitude": 48.75,
+            "longitude": 7.95,
+            "precision": "approximate"
+          }
+        },
+        "witnesses": {
+          "count": 1,
+          "types": ["Self-witness"],
+          "credibility_factors": ["Respected author", "Personal memoir", "Detailed description"]
+        },
+        "description": "German writer Johann Wolfgang von Goethe reported encountering his exact double riding toward him on horseback, wearing clothes he didn't yet own (gray suit with gold trim). Eight years later, Goethe found himself riding the same road in the opposite direction, wearing the exact clothes he had seen on his double. He interpreted this as a premonitory vision of his future self.",
+        "conditions": {
+          "weather": "Clear",
+          "visibility": "Good",
+          "time_of_day": "Daytime",
+          "duration": "Brief moment"
+        },
+        "evidence": [
+          "Goethe's autobiography 'Dichtung und Wahrheit'",
+          "Literary analysis and commentary"
+        ],
+        "credibility": {
+          "rating": "medium",
+          "factors": [
+            "Single witness",
+            "Written decades after event",
+            "But witness is credible historical figure",
+            "Premonitory element difficult to verify"
+          ],
+          "notes": "Classic literary account that popularized doppelgänger concept in European culture."
+        },
+        "sources": [
+          "Goethe, J.W. (1811-1833). Dichtung und Wahrheit (Poetry and Truth)"
+        ],
+        "featured": true
+      },
+      {
+        "id": "doppelganger-lincoln-1860",
+        "name": "Lincoln's Double Reflection",
+        "date": {
+          "value": "1860-11-06",
+          "precision": "exact"
+        },
+        "location": {
+          "description": "Lincoln's home, Springfield, Illinois",
+          "country": "United States",
+          "region": "Illinois",
+          "locality": "Springfield",
+          "coordinates": {
+            "latitude": 39.8,
+            "longitude": -89.65,
+            "precision": "approximate"
+          }
+        },
+        "witnesses": {
+          "count": 1,
+          "types": ["Self-witness"],
+          "credibility_factors": ["President-elect of United States", "Reported to multiple people"]
+        },
+        "description": "On the evening of his election to presidency, Abraham Lincoln saw his reflection in a mirror appear doubled - one face healthy and vivid, the other pale and ghostly. He saw this twice. Lincoln's wife Mary interpreted it as an omen: he would serve his first term in good health but would not survive his second term. Lincoln was indeed assassinated during his second term in 1865.",
+        "conditions": {
+          "time_of_day": "Evening",
+          "duration": "Brief",
+          "reproducibility": "Occurred twice for Lincoln"
+        },
+        "evidence": [
+          "Lincoln's personal accounts to family and colleagues",
+          "Mary Todd Lincoln's testimony",
+          "Multiple historical sources"
+        ],
+        "credibility": {
+          "rating": "medium",
+          "factors": [
+            "Credible historical figure",
+            "Multiple retellings",
+            "Possible optical illusion",
+            "Retrospective prophecy interpretation"
+          ],
+          "notes": "Well-documented historical account, though interpretation as death omen may be retrospective."
+        },
+        "sources": [
+          "Keckley, E. (1868). Behind the Scenes: Thirty Years a Slave and Four Years in the White House",
+          "Sandburg, C. (1926). Abraham Lincoln: The Prairie Years"
+        ],
+        "featured": true
+      }
+    ],
+    "database_path": "./sightings/"
+  },
+
+  "evidence": {
+    "historical_accounts": [
+      {
+        "id": "doppelganger-evidence-sagee",
+        "type": "witness testimony",
+        "name": "Emilie Sagée Documentation",
+        "date": "1845-1846",
+        "description": "Extensive witness testimony from 40+ students and staff",
+        "status": "well-documented",
+        "analysis": "Most thoroughly documented historical case; witnesses consistent and credible",
+        "source": "Dale Owen investigation and publication"
+      }
+    ],
+    "neurological": [
+      {
+        "id": "doppelganger-evidence-autoscopy",
+        "type": "medical condition",
+        "name": "Autoscopy cases",
+        "date": "Various (1930s-present)",
+        "description": "Neurological phenomenon where patients see their own body from external perspective",
+        "status": "scientifically verified",
+        "analysis": "fMRI and neurology studies identify temporoparietal junction involvement",
+        "source": "Neurology journals, Blanke et al. research"
+      },
+      {
+        "id": "doppelganger-evidence-heautoscopy",
+        "type": "medical condition",
+        "name": "Heautoscopy cases",
+        "date": "Various",
+        "description": "Neurological condition involving seeing one's double with feeling of doubled self",
+        "status": "scientifically verified",
+        "analysis": "Related to autoscopy but involves stronger identification with the double",
+        "source": "Neurology and psychiatry research"
+      }
+    ],
+    "psychological": [
+      {
+        "id": "doppelganger-evidence-capgras",
+        "type": "delusion",
+        "name": "Capgras Delusion",
+        "date": "Identified 1923",
+        "description": "Patients believe loved ones have been replaced by identical doubles",
+        "status": "recognized psychiatric condition",
+        "analysis": "Related to impaired face recognition and emotional response disconnect",
+        "source": "Capgras & Reboul-Lachaux (1923)"
+      }
+    ],
+    "folklore": [
+      {
+        "id": "doppelganger-evidence-fetch",
+        "type": "cultural tradition",
+        "name": "Irish Fetch traditions",
+        "description": "Extensive Celtic folklore about death omen doubles",
+        "status": "cultural documentation",
+        "source": "Irish and Scottish folklore collections"
+      }
+    ]
+  },
+
+  "theories": {
+    "paranormal": [
+      {
+        "name": "Astral Double",
+        "description": "The double is the person's astral body or spirit temporarily separating from physical body",
+        "proponents": ["Theosophical Society", "Spiritualist researchers"],
+        "evidence_cited": ["Out-of-body experiences", "Bilocation in religious figures", "Consistency with astral projection reports"]
+      },
+      {
+        "name": "Death Omen",
+        "description": "Traditional belief that seeing one's double is a supernatural warning of impending death",
+        "proponents": ["Folklore traditions worldwide"],
+        "evidence_cited": ["Historical accounts where death followed sighting", "Consistent cultural beliefs", "Crisis apparition timing"]
+      },
+      {
+        "name": "Time Anomaly",
+        "description": "Double represents temporal displacement - seeing future or past self",
+        "proponents": ["Paranormal researchers"],
+        "evidence_cited": ["Goethe's premonitory sighting", "Vardøger phenomenon", "Precognitive elements"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Autoscopy (Neurological)",
+        "description": "Brain dysfunction in temporoparietal junction creates illusion of seeing one's own body externally",
+        "proponents": ["Olaf Blanke", "Peter Brugger", "Neurology researchers"],
+        "evidence_cited": ["fMRI studies", "Epilepsy and migraine correlations", "Electrical brain stimulation reproducing effect", "Lesion studies"]
+      },
+      {
+        "name": "Heautoscopy",
+        "description": "More complex neurological phenomenon involving doubled sense of self and location",
+        "proponents": ["Neurologists and psychiatrists"],
+        "evidence_cited": ["Clinical case studies", "Brain imaging", "Association with neurological conditions"]
+      },
+      {
+        "name": "Dissociative States",
+        "description": "Psychological dissociation creates perception of separated self",
+        "proponents": ["Psychology researchers"],
+        "evidence_cited": ["Trauma correlation", "Dissociative disorder case studies", "Altered consciousness studies"]
+      }
+    ],
+    "psychological": [
+      {
+        "name": "Hallucination",
+        "description": "Visual and sensory hallucinations create perception of duplicate person",
+        "proponents": ["Skeptical psychologists"],
+        "evidence_cited": ["Sleep paralysis cases", "Stress and fatigue correlation", "Psychiatric conditions"]
+      },
+      {
+        "name": "Projection and Identification",
+        "description": "Psychological projection of self-image externalized through stress or trauma",
+        "proponents": ["Psychoanalytic researchers"],
+        "evidence_cited": ["Trauma case studies", "Identity disorder research"]
+      },
+      {
+        "name": "Mistaken Identity",
+        "description": "Witnesses mistake similar-looking person for the individual",
+        "proponents": ["Skeptics"],
+        "evidence_cited": ["Statistical probability of lookalikes", "Poor lighting or brief sightings", "Confirmation bias"]
+      }
+    ],
+    "quantum": [
+      {
+        "name": "Parallel Universe Glimpse",
+        "description": "Brief visual access to parallel timeline where duplicate exists",
+        "proponents": ["Speculative quantum theorists"],
+        "evidence_cited": ["Quantum mechanics many-worlds interpretation", "Theoretical physics speculation"],
+        "notes": "Highly speculative with no empirical support"
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "German Doppelgänger legends",
+        "Irish and Scottish Fetch traditions",
+        "Norse Vardøger beliefs",
+        "Finnish Etiäinen folklore",
+        "Ancient Egyptian Ka theology"
+      ],
+      "stories": [
+        "Emilie Sagée (France/Latvia, 1845-46)",
+        "Goethe's encounter (Germany, 1776)",
+        "Queen Elizabeth I's deathbed double (England, 1603)",
+        "Abraham Lincoln's double reflection (USA, 1860)"
+      ],
+      "beliefs": "Across cultures, seeing one's double is traditionally considered a death omen or warning. Some traditions view the double as the soul temporarily separating from body. Others see it as supernatural messenger or premonition."
+    },
+    "religious": {
+      "contexts": [
+        "Catholic bilocation saints (Padre Pio, St. Anthony, St. Alphonsus Liguori)",
+        "Egyptian Ka - spiritual double in afterlife theology",
+        "Hindu concept of subtle body",
+        "Buddhist tulpa traditions"
+      ],
+      "significance": "Religious traditions often view bilocation as miraculous gift of holy individuals, distinct from ominous folkloric doppelgängers."
+    },
+    "popular_culture": {
+      "literature": [
+        "\"William Wilson\" by Edgar Allan Poe (1839)",
+        "\"The Double\" by Fyodor Dostoevsky (1846)",
+        "\"The Strange Case of Dr Jekyll and Mr Hyde\" by Robert Louis Stevenson (1886)",
+        "\"The Picture of Dorian Gray\" by Oscar Wilde (1890)",
+        "\"Fight Club\" by Chuck Palahniuk (1996)"
+      ],
+      "film_tv": [
+        "Black Swan (2010)",
+        "Enemy (2013)",
+        "The Double (2013)",
+        "Us (2019)",
+        "Living with Yourself (Netflix, 2019)",
+        "The Twilight Zone episodes"
+      ],
+      "themes": [
+        "Dual nature of personality",
+        "Identity crisis",
+        "Evil twin trope",
+        "Psychological horror",
+        "Questions of authenticity and self"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Dr. Olaf Blanke",
+        "affiliation": "École Polytechnique Fédérale de Lausanne",
+        "contribution": "Leading neurological research on autoscopy and out-of-body experiences",
+        "period": "2000s-present"
+      },
+      {
+        "name": "Dr. Peter Brugger",
+        "affiliation": "University Hospital Zurich",
+        "contribution": "Neurological and psychological research on autoscopic phenomena",
+        "period": "1990s-present"
+      },
+      {
+        "name": "Robert Dale Owen",
+        "affiliation": "Independent researcher and author",
+        "contribution": "Documented and investigated Emilie Sagée case and other historical accounts",
+        "period": "1850s-1870s"
+      },
+      {
+        "name": "Camille Flammarion",
+        "affiliation": "Astronomer and psychical researcher",
+        "contribution": "Collected and analyzed historical doppelgänger accounts",
+        "period": "Late 1800s-early 1900s"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Society for Psychical Research",
+        "url": "https://www.spr.ac.uk",
+        "focus": "Historical investigation of apparitions and doubles"
+      },
+      {
+        "name": "Laboratory of Cognitive Neuroscience (EPFL)",
+        "url": "https://www.epfl.ch/labs/lnco/",
+        "focus": "Scientific research on bodily self-consciousness and autoscopy"
+      }
+    ],
+    "ongoing_studies": "Current research focuses on neurological basis of autoscopic phenomena using fMRI and electrical brain stimulation, psychological aspects of dissociation and identity, and documentation of contemporary cases."
+  },
+
+  "sources": [
+    {
+      "id": "owen-1860",
+      "type": "book",
+      "title": "Footfalls on the Boundary of Another World",
+      "authors": ["Robert Dale Owen"],
+      "publication": "J.B. Lippincott",
+      "date": "1860"
+    },
+    {
+      "id": "flammarion-1923",
+      "type": "book",
+      "title": "Death and Its Mystery",
+      "authors": ["Camille Flammarion"],
+      "publication": "The Century Co.",
+      "date": "1923"
+    },
+    {
+      "id": "blanke-2004",
+      "type": "article",
+      "title": "Out-of-body experience and autoscopy of neurological origin",
+      "authors": ["Olaf Blanke", "Theodor Landis", "Laurent Spinelli", "Margitta Seeck"],
+      "publication": "Brain",
+      "date": "2004",
+      "volume": "127",
+      "pages": "243-258"
+    },
+    {
+      "id": "brugger-2002",
+      "type": "article",
+      "title": "Reflections on 'Reflections on the Doppelganger'",
+      "authors": ["Peter Brugger"],
+      "publication": "Neuropsychoanalysis",
+      "date": "2002",
+      "volume": "4",
+      "pages": "231-235"
+    }
+  ]
+}
