@@ -1,526 +1,225 @@
 # Doppelgänger
 
-> *"To see one's double is to see one's death."*
+> The apparitional double of a living person, reported across many cultures and historical periods, sometimes seen by the person themselves and sometimes witnessed by others; modern neuroscience associates some experiences with autoscopy and heautoscopy linked to disturbances of the temporoparietal junction.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Documented Cases](https://img.shields.io/badge/cases-1000+-orange)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `doppelganger` |
 | **Category** | ANOMALY |
-| **Classification** | Duplicate Phenomenon / Apparitional |
-| **First Recorded** | Ancient times (Egyptian Ka concept) |
-| **Primary Region** | Global |
-| **Status** | Active |
+| **Subcategory** | Apparitional double of a living person |
+| **First recorded** | 1796-01-01 |
+| **Primary range** | Reported worldwide across cultures and historical periods |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-A doppelgänger (German for "double-goer" or "double-walker") is the apparitional double or duplicate of a living person. The phenomenon manifests in several forms: individuals seeing their own double (autoscopy), others witnessing someone in two places simultaneously (bilocation), or crisis apparitions where doubles appear at moments of danger or death.
-
-Historically considered an omen of death or bad luck in European folklore, the doppelgänger phenomenon spans cultures worldwide and has been documented throughout history. Famous cases include German writer Goethe meeting himself on a road, Abraham Lincoln's eerie double reflection in 1860, and the extensively documented case of French teacher Emilie Sagée (1845-46), whose double was witnessed by over 40 students and staff.
-
-Modern science recognizes some doppelgänger experiences as neurological conditions (autoscopy, heautoscopy) caused by dysfunction in the brain's temporoparietal junction, while other cases remain unexplained, bridging paranormal, psychological, and potentially quantum phenomena.
+A doppelgänger is the apparitional double or duplicate of a living person — German for 'double-walker'. The term was coined by the German Romantic novelist Jean Paul in his 1796 novel Siebenkäs, where it appears in a footnote with a meaning slightly distinct from later use. The phenomenon spans cultures: the Ancient Egyptian ka, the Norse vardøger, the Irish 'fetch', and the Islamic qarin all describe related ideas of a spirit double. Famous European cases include Goethe's autobiographical account in Dichtung und Wahrheit of meeting himself on horseback in unfamiliar clothing and meeting that same vision on the same road eight years later; Mary Shelley's record of Percy Bysshe Shelley meeting his own double in 1822 (shortly before his drowning); and the much-discussed case of the French teacher Émilie Sagée, whose double was reportedly witnessed at her school in Latvia in 1845. Vice-Admiral George Tryon's apparition was reportedly seen at his home in 1893 while he was actually commanding HMS Victoria in the Mediterranean during her fatal collision with HMS Camperdown. Modern psychiatric and neuroscientific work — including studies by Olaf Blanke and colleagues at EPFL — has shown that experiences of seeing one's double (autoscopy and heautoscopy) can be elicited by stimulation of the temporoparietal junction and are observed in temporal-lobe epilepsy and certain psychiatric conditions; Otto Rank's 1914 monograph and Sigmund Freud's 1919 essay 'Das Unheimliche' (The Uncanny) provide foundational psychoanalytic framing.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Doppelgaenger | German |  |
+| Double | English |  |
+| Fetch | English / Irish folklore | Wraith-like double whose appearance can foretell death |
+| Vardøger | Norwegian | Premonitory spirit precursor performing actions before the person |
+| Ka | Ancient Egyptian | Tangible spirit double |
+| Qarin | Arabic | Spirit double of the same sex and temperament in Islamic tradition |
 
-### Primary Name
-- **Doppelgänger** — German compound word from "doppel" (double) and "gänger" (goer/walker). First used by German writer Jean Paul Richter in 1796 novel "Siebenkäs."
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Double | English | General term for duplicate |
-| Fetch | Irish/Celtic | Death omen double that appears before person's death |
-| Vardøger | Norse/Scandinavian | Premonitory double that arrives before the person |
-| Etiäinen | Finnish | Spirit predecessor, ghostly precursor |
-| Ka | Ancient Egyptian | Spiritual double, part of soul complex |
-| Wraith | English/Scottish | Ghostly double, especially of dying person |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: ANOMALY
-├── Type: Duplicate Phenomenon
-├── Subtype: Apparitional
-└── Variant: Global
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| Bilocation | Overlapping | Being in two places simultaneously |
-| Astral Projection | Related | Consciousness traveling separately from body |
-| Crisis Apparition | Variant | Apparition at moment of death or danger |
-| Autoscopy | Neurological explanation | Seeing one's body from external perspective |
-| Out-of-Body Experience | Related | Consciousness observing from outside body |
+- **Origin**: German compound: Doppel ('double') + Gänger ('walker, goer')
+- **Meaning**: 'Double-walker' or 'double-goer'
+- **First use**: 1796 — Jean Paul (Johann Paul Friedrich Richter), Siebenkäs
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Bilocation](../bilocation/) — _related_: Reported simultaneous presence of one individual in two places
+- [Crisis apparition](../crisis-apparition/) — _related_: Apparition of a person seen at a moment of crisis or death
+- [Out-of-body experiences](../out-of-body-experiences/) — _related_: Phenomenologically related self-perception experiences
+- [Vanishing hitchhiker](../vanishing-hitchhiker/) — _related_: Cultural narrative pattern involving doubles or revenants
 
-### Manifestation Types
+---
+## Physical Description
 
-| Type | Description | Frequency | Context |
-|------|-------------|-----------|---------|
-| **Autoscopy** | Individual sees their own double from external perspective | Rare | Neurological, altered states, spontaneous |
-| **Bilocation Witness** | Others see person in two locations simultaneously | Uncommon | Person usually unaware double is seen |
-| **Crisis Apparition** | Double appears to loved ones at moment of danger/death | Uncommon | During accidents, illness, trauma |
-| **Premonitory Double** | Double appears before actual person arrives (Vardøger) | Rare | Double performs actions person will do |
+- **Morphology**: A perceptual double of a living person, with no consistent physical characteristics beyond resemblance to the subject.
 
-### Physical Appearance
-
-| Attribute | Description |
-|-----------|-------------|
-| **Likeness** | Exact duplicate including clothing, appearance, mannerisms |
-| **Visibility** | Typically visible only to select witnesses |
-| **Solidity** | Ranges from fully solid to translucent or shadowy |
-| **Duration** | Seconds to hours, typically minutes |
-| **Behavior** | May mirror original's actions or act independently |
-
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Exact likeness | Perfect physical duplicate in every detail | Always |
-| Simultaneous existence | Original person exists elsewhere while double appears | Common |
-| No interaction | Double rarely speaks or interacts meaningfully | Common |
-| Emotional effect | Witnesses feel unease, dread, uncanny valley sensation | Very common |
-| Death association | Traditional folklore links to impending death | Cultural belief |
-| No awareness | Double rarely shows awareness of observers | Common |
+|---|---|---|
+| Identical appearance to the original | The double matches the living person's appearance, often including clothing | always |
+| Silent | Reports often note that the double does not speak | common |
+| Felt presence | Witnesses sometimes describe a sense of resistance or atmosphere when near the double (e.g., the Sagée case) | occasional |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Crisis apparition | Said to appear at moments of danger or death of the person it doubles | occasional | reported |
+| Autoscopy | The subject sees their own double, often externally projected at a short distance | common | documented |
+| Heautoscopy | Subject sees a double and may experience confusion about which body is the self; clinically associated with temporal-lobe seizures | occasional | documented |
+
+## Behavior
+
+- **Activity**: variable
+- **Disposition**: neutral
+- **Social structure**: solitary
+- **Habitat**: near the person doubled, domestic and workplace settings
 
 ---
+## Distribution
 
-## Geographic Distribution
+Reported worldwide across cultures and historical periods.
 
-### Global Phenomenon
-
-The doppelgänger phenomenon is **universal** — reported across all cultures, continents, and time periods with no geographic concentration. Cultural interpretations vary, but the core experience of encountering one's double appears throughout human history worldwide.
-
-### Cultural Variants
-
-| Variant | Location | Cultural Significance |
-|---------|----------|----------------------|
-| **Fetch** | Ireland, Scotland | Strong Celtic folklore tradition; seeing it means death within a year |
-| **Vardøger** | Scandinavia | Common in Norwegian and Icelandic folklore; arrives before person |
-| **Ka** | Ancient Egypt | Integral to Egyptian theology and afterlife beliefs |
-| **Etiäinen** | Finland | Part of Finnish folk belief system |
-| **Wraith** | England, Scotland | Associated with death and dying |
 
 ---
-
 ## Historical Timeline
 
-### Ancient Origins
-
-Doppelgänger beliefs appear in humanity's earliest recorded cultures. Ancient Egyptians believed every person had a Ka (spiritual double), Greeks described eidolons (spirit images), and Germanic peoples had traditions of doubles as death omens.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| 3000+ BCE | Egyptian Ka concept | Egyptian theology establishes spiritual double of every person |
-| Ancient Greece | Eidolon concept | Greeks describe spirit images and doubles in mythology |
-| 1603 | Queen Elizabeth I's double | Queen's double seen on her deathbed shortly before death |
-| 1776 | Goethe's self-encounter | Famous writer meets his own double on horseback |
-| 1796 | Term "Doppelgänger" coined | Jean Paul Richter introduces word in novel "Siebenkäs" |
-| 1845-1846 | Emilie Sagée case | Most extensively documented historical case with 40+ witnesses |
-| 1860 | Abraham Lincoln's double | President-elect sees double reflection, interpreted as death omen |
-| 1860 | Dale Owen investigation | Robert Dale Owen publishes "Footfalls on the Boundary of Another World" |
-| 1930s-present | Neurological research | Medical science identifies autoscopy and heautoscopy |
-| 1958 | Capgras delusion identified | Related condition where patients believe loved ones replaced by doubles |
-| 2000s | fMRI studies | Brain imaging reveals temporoparietal junction involvement |
+|---|---|---|
+| 1796-01-01 | Jean Paul coins 'Doppeltgänger' in his novel Siebenkäs | Origin of the modern German term and its eventual English loanword |
+| 1822-07-08 | Death of Percy Bysshe Shelley, whose 1822 doppelgänger encounters were recorded by Mary Shelley and Jane Williams | Influential Romantic-era case anchored in a documented date of death |
+| 1845-01-01 | Reported doppelgänger of teacher Émilie Sagée at the Pensionat von Neuwelcke in Latvia | Most-discussed 19th-century multi-witness case |
+| 1893-06-22 | HMS Victoria collides with HMS Camperdown, killing Vice-Admiral Sir George Tryon; his apparition is reportedly seen at his London home that day | Frequently cited crisis-apparition / doppelgänger case anchored to a verifiable naval event |
+| 1914-01-01 | Otto Rank publishes Der Doppelgänger | Foundational psychoanalytic study of the double |
+| 1919-01-01 | Sigmund Freud publishes 'Das Unheimliche' (The Uncanny) | Establishes the doppelgänger as a key motif in the psychology of the uncanny |
 
-### Modern Era
+---
+## Notable Sightings
 
-Modern understanding integrates folklore, neurology, and psychology. Autoscopic phenomena are recognized as neurological conditions affecting the brain's body schema and sense of self-location. However, many historical cases and contemporary reports don't fit neurological explanations, leaving aspects of the phenomenon unexplained. The doppelgänger maintains strong cultural presence in literature, film, and psychological discourse about identity.
+### Goethe meets his own double ⭐
+> **Date**: 1771-01-01  
+> **Location**: Road between Drusenheim and Sesenheim (Alsace, then France)  
+> **Witnesses**: 1 (Johann Wolfgang von Goethe (self-witness))  
+Goethe wrote that as he rode away from Friederike Brion he saw himself, in unfamiliar clothing, riding toward him. Eight years later he found himself riding the same road in the very same clothing, and remarked on the recursive 'strangeness' of the experience.
+**Credibility**: medium — Often-cited literary case rather than independently corroborated incident.
+**Sources**: Goethe, Dichtung und Wahrheit, Book 11
 
 ---
 
-## Notable Cases
-
-### Emilie Sagée (1845-1846) ⭐
-
-> **Date**: 1845-1846
-> **Location**: Pensionat von Neuwelcke, Livonia (modern Latvia)
-> **Witnesses**: 40+ (students, staff, administrators)
-> **Evidence**: Extensive witness testimony, school records, investigative documentation
-
-French teacher Emilie Sagée's double was repeatedly witnessed over 18 months by students aged 13-19 and school staff. Witnesses reported seeing her double:
-
-- Standing beside her while she wrote on the blackboard
-- Sitting in a chair while she stood across the room
-- In the garden while her double remained in the classroom
-- Performing actions she was simultaneously doing elsewhere
-
-In the most dramatic incident, 13 students watched as Sagée's double appeared in her empty chair during class, while she was clearly visible working in the garden outside. Some students claimed they could pass their hands through the double; others reported it felt solid.
-
-**Key details:**
-- Sagée herself never saw her double and was unaware of its appearances
-- When the double appeared, Sagée often seemed tired or weakened
-- The double sometimes mimicked her movements, sometimes acted independently
-- Despite being an excellent teacher, she was dismissed due to frightened parents withdrawing students
-- This was her 19th dismissal due to the phenomenon
-
-**Credibility Assessment**: High — Dozens of independent witnesses, consistent descriptions, extended observation period, no apparent motive for hoax. Investigated and documented by Robert Dale Owen in 1860.
+### Percy Bysshe Shelley sees his own double ⭐
+> **Date**: 1822-06-01  
+> **Location**: Casa Magni, San Terenzo, Bay of Spezia  
+> **Witnesses**: 2 (Percy Bysshe Shelley (self), Jane Williams)  
+Mary Shelley recorded that Percy Bysshe Shelley reported encountering his own double, and separately that Jane Williams saw Shelley pass by a window in two impossible directions. Shelley drowned in the Gulf of Spezia weeks later.
+**Credibility**: medium — Often cited as a Romantic-era crisis apparition.
+**Sources**: Mary Shelley correspondence (1822)
 
 ---
 
-### Goethe's Self-Encounter (1776)
-
-> **Date**: 1776 (approximately)
-> **Location**: Road near Drusenheim, Alsace
-> **Witnesses**: 1 (Johann Wolfgang von Goethe)
-> **Evidence**: Goethe's autobiography "Dichtung und Wahrheit"
-
-German writer Johann Wolfgang von Goethe reported encountering his exact double while riding on horseback. The double rode toward him from the opposite direction, wearing a distinctive gray suit with gold trim — clothes Goethe didn't yet own.
-
-Eight years later, Goethe found himself riding the same road in the opposite direction, wearing the exact outfit he had seen on his double. He interpreted this as a premonitory vision of his future self.
-
-**Credibility Assessment**: Medium — Single witness, written decades after event, but Goethe was credible historical figure. Premonitory element impossible to verify. Classic literary account that popularized the doppelgänger concept.
+### Émilie Sagée doppelgänger at Pensionat von Neuwelcke ⭐
+> **Date**: 1845-01-01  
+> **Location**: Pensionat von Neuwelcke (a girls' school), Livonia (modern-day Latvia)  
+> **Witnesses**: 42 (Pupils and staff of the Pensionat von Neuwelcke)  
+French teacher Émilie Sagée was reportedly observed in two places simultaneously by her students at a Latvian girls' school, with witnesses describing a felt resistance like that of fine muslin or crape when they passed close to the apparition.
+**Credibility**: low — Famous in psychical literature but not independently corroborated by contemporary documents.
+**Sources**: Robert Dale Owen, Footfalls on the Boundary of Another World (1860)
 
 ---
 
-### Abraham Lincoln's Double Reflection (1860)
-
-> **Date**: November 6, 1860
-> **Location**: Lincoln's home, Springfield, Illinois
-> **Witnesses**: 1 (Abraham Lincoln himself)
-> **Evidence**: Multiple historical sources, testimony from Mary Todd Lincoln
-
-On the evening of his election to the presidency, Abraham Lincoln looked into a mirror and saw his reflection doubled. One face appeared healthy and vivid; the other was pale, ghostly, and death-like. The vision disturbed him deeply. He saw it twice.
-
-Lincoln's wife Mary interpreted it as an omen: he would serve his first term in good health but would not survive his second term. Lincoln was assassinated on April 14, 1865, early in his second term.
-
-**Credibility Assessment**: Medium — Well-documented by multiple sources, but may be optical illusion. Death omen interpretation could be retrospective prophecy after assassination.
+### Apparition of Vice-Admiral George Tryon at his London home
+> **Date**: 1893-06-22  
+> **Location**: Tryon residence, London  
+> **Witnesses**: 0 (Family members and guests reported in second-hand accounts)  
+On the day Vice-Admiral Sir George Tryon's HMS Victoria collided with HMS Camperdown off Tripoli, Lebanon, leading to his death and the loss of more than 350 sailors, his apparition was reportedly seen at his London home where Lady Tryon was hosting a reception.
+**Credibility**: low — Frequently cited as a crisis-apparition / doppelgänger case in psychical literature.
+**Sources**: Society for Psychical Research case literature
 
 ---
 
-### Queen Elizabeth I's Deathbed Double (1603)
-
-> **Date**: March 1603
-> **Location**: Richmond Palace, England
-> **Witnesses**: Multiple court attendants
-> **Evidence**: Historical court records
-
-Shortly before Queen Elizabeth I's death, her attendants reported seeing her exact double lying on her bed. The double appeared pale and corpse-like. When they entered the room moments later, they found the real Queen Elizabeth sitting upright, still alive.
-
-She died shortly thereafter on March 24, 1603.
-
-**Credibility Assessment**: Medium — Historical documentation, multiple witnesses, but details sparse and potentially embellished in retelling.
-
----
-
-*See [/sightings](/sightings) for complete case database.*
-
----
 
 ## Evidence
 
-### Historical Documentation
+### Documentary
 
-| Source | Date | Description | Status |
-|--------|------|-------------|--------|
-| Emilie Sagée testimony | 1845-1846 | 40+ witness accounts documented by Dale Owen | Well-documented |
-| Goethe's autobiography | 1811-1833 | Personal account in "Dichtung und Wahrheit" | Literary source |
-| Lincoln historical records | 1860s | Multiple contemporary sources | Historical |
-
-### Neurological Evidence
-
-| Condition | Description | Scientific Status |
-|-----------|-------------|-------------------|
-| **Autoscopy** | Seeing one's body from external perspective | Scientifically verified |
-| **Heautoscopy** | Seeing double with sense of doubled self | Scientifically verified |
-| **Out-of-Body Experience** | Consciousness observing from outside body | Documented phenomenon |
-
-**Key Research:**
-- fMRI studies identify temporoparietal junction (TPJ) involvement
-- Electrical stimulation of TPJ can induce autoscopic experiences
-- Associated with epilepsy, migraine, brain lesions, and altered states
-- Research by Olaf Blanke, Peter Brugger, and others
-
-### Psychological Evidence
-
-| Phenomenon | Description | Status |
-|------------|-------------|--------|
-| **Capgras Delusion** | Belief loved ones replaced by identical doubles | Recognized psychiatric condition |
-| **Dissociative States** | Trauma-induced sense of separated self | Clinical documentation |
-| **Sleep Paralysis** | Hallucinations during sleep-wake transition | Common phenomenon |
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Otto Rank, Der Doppelgänger | 1914 | Foundational psychoanalytic monograph on the literary and psychological history of the double. | verified |
+| Sigmund Freud, 'Das Unheimliche' (The Uncanny) | 1919 | Influential essay treating the doppelgänger as a structural example of the uncanny, building on Rank. | verified |
 
 ---
-
 ## Theories & Explanations
 
-### Paranormal Theories
+### Paranormal / Cryptozoological
 
-1. **Astral Double**
-   The doppelgänger is the person's astral body or spirit temporarily separating from the physical body. Consistent with out-of-body experiences, astral projection beliefs, and reports of bilocation in religious figures.
+**Spirit double / soul-projection** _(Folkloric tradition, Spiritualist literature of the 19th century)_
 
-2. **Death Omen (Traditional)**
-   Traditional folklore belief that seeing one's double is a supernatural warning of impending death. Supported by cultural consistency worldwide and some cases where death followed sighting.
+Folk and esoteric interpretation in which the double is an externalization of the soul or astral body, sometimes appearing in advance of death (vardøger, fetch).
 
-3. **Time Anomaly**
-   The double represents temporal displacement — seeing one's future or past self. Goethe's premonitory encounter and Vardøger phenomena support this theory.
+**Crisis apparition** _(Society for Psychical Research)_
 
-### Scientific Explanations
+The double is interpreted as appearing at the moment of crisis or death of the person it represents.
 
-1. **Autoscopy (Neurological)** ⭐
-   Brain dysfunction in the temporoparietal junction creates the illusion of seeing one's own body from an external perspective. 
-   
-   **Evidence**: fMRI studies, epilepsy/migraine correlations, electrical brain stimulation reproducing effect, lesion studies.
-   
-   **Researchers**: Olaf Blanke, Peter Brugger, neurological community
+### Scientific
 
-2. **Heautoscopy**
-   More complex neurological phenomenon involving a doubled sense of self and uncertain self-location. Patient may feel present in both the body and the double.
-   
-   **Evidence**: Clinical case studies, brain imaging, association with neurological conditions
+**Autoscopy and heautoscopy (neurological)** _(Olaf Blanke and colleagues at EPFL, Modern clinical neurology)_
 
-3. **Dissociative States**
-   Psychological dissociation (often trauma-induced) creates perception of separated or duplicated self.
-   
-   **Evidence**: Trauma correlation, dissociative disorder studies, altered consciousness research
+Self-perception of one's own body at a distance, associated with right temporoparietal-junction dysfunction, temporal-lobe epilepsy, migraine, and certain psychiatric conditions.
 
-### Skeptical Explanations
+**Genuine genetic look-alikes** _(Manel Esteller et al. (2022))_
 
-1. **Mistaken Identity**
-   Witnesses mistake a similar-looking person for the individual in question. Statistical probability of lookalikes, poor lighting, brief encounters, and confirmation bias contribute.
+A 2022 Cell Reports study by Esteller and colleagues found that unrelated 'look-alikes' identified by François Brunelle's portrait project shared more single-nucleotide polymorphisms than chance, with shared variants linked to facial traits and behavioural phenotypes.
 
-2. **Hallucination**
-   Visual and sensory hallucinations create perception of duplicate person. Associated with sleep paralysis, stress, fatigue, and psychiatric conditions.
+### Skeptical
 
-3. **Psychological Projection**
-   Externalization of self-image through stress, trauma, or altered mental states.
+**Misidentification and confabulation** _(Modern skeptical literature on apparitional accounts)_
 
-### Speculative Theories
+Many cases reflect misidentification of similar-looking strangers, false memory, and post hoc narrative construction, particularly the 19th-century cases that survive only in secondary literature.
 
-1. **Quantum/Parallel Universe**
-   Highly speculative theory that doppelgängers represent brief visual access to parallel timelines where a duplicate exists. Based on many-worlds interpretation of quantum mechanics but has no empirical support.
+
+## Popular Culture
+
+**Literature**: Jean Paul, Siebenkäs (1796); E. T. A. Hoffmann, Die Elixiere des Teufels (1815); Edgar Allan Poe, 'William Wilson' (1839); Fyodor Dostoevsky, The Double (1846); Robert Louis Stevenson, The Strange Case of Dr Jekyll and Mr Hyde (1886); José Saramago, The Double (2002)
+
+**Film / TV**: The Prestige (2006); Enemy (2013); Us (2019); Twin Peaks (1990–1991, 2017)
+
+**Games**: Castlevania: Symphony of the Night (1997)
+
+**Other**: The 'Twin Strangers' and François Brunelle 'I'm Not a Look-Alike' photographic projects
 
 ---
+## Research
 
-## Cultural Significance
+### Researchers
 
-### Folklore Traditions
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Otto Rank | Vienna Psychoanalytic Society | Der Doppelgänger (1914), foundational psychoanalytic monograph | 1914 |
+| Sigmund Freud | University of Vienna | 'Das Unheimliche' (1919), positioning the doppelgänger within the theory of the uncanny | 1919 |
+| Olaf Blanke | École polytechnique fédérale de Lausanne | Neuroscientific work on autoscopy, heautoscopy, and the temporoparietal junction | 2000s–present |
+| Manel Esteller | Josep Carreras Leukaemia Research Institute | 2022 Cell Reports study of genetic similarity between unrelated look-alikes | 2022 |
 
-**European:**
-- German Doppelgänger legends (death omen, evil twin)
-- Irish/Scottish Fetch (seeing it means death within a year)
-- Norse Vardøger (arrives before person, performs future actions)
-- English Wraith (ghostly double of dying person)
+### Organizations
 
-**Other Cultures:**
-- Ancient Egyptian Ka (spiritual double, part of soul)
-- Finnish Etiäinen (spirit predecessor)
-- Various Indigenous traditions of spirit doubles
+- [Society for Psychical Research](https://www.spr.ac.uk) — Historical case files including doppelgänger and crisis-apparition reports
 
-**Common Themes:**
-- Death omen or warning
-- Soul temporarily separating from body
-- Supernatural messenger
-- Evil twin or shadow self
-
-### Religious Contexts
-
-**Bilocation Saints:**
-- Padre Pio (reportedly appeared in two places simultaneously)
-- St. Anthony of Padua (bilocation accounts)
-- St. Alphonsus Liguori (documented bilocation)
-- St. Martin de Porres
-
-Religious traditions often view bilocation as miraculous gift of holy individuals, distinct from ominous folkloric doppelgängers.
-
-**Theological Concepts:**
-- Egyptian Ka (spiritual double in afterlife)
-- Hindu subtle body
-- Buddhist tulpa traditions
-- Christian soul and body dualism
-
-### Popular Culture
-
-**Literature:**
-- "William Wilson" by Edgar Allan Poe (1839)
-- "The Double" by Fyodor Dostoevsky (1846)
-- "The Strange Case of Dr Jekyll and Mr Hyde" by Robert Louis Stevenson (1886)
-- "The Picture of Dorian Gray" by Oscar Wilde (1890)
-- "Fight Club" by Chuck Palahniuk (1996)
-
-**Film/TV:**
-- *Black Swan* (2010) — psychological thriller about doubles
-- *Enemy* (2013) — man discovers exact double
-- *The Double* (2013) — adaptation of Dostoevsky
-- *Us* (2019) — horror film about evil doubles
-- *Living with Yourself* (Netflix, 2019) — comedy about cloning
-- Multiple *Twilight Zone* episodes
-
-**Themes:**
-- Dual nature of personality
-- Identity crisis and authenticity
-- Evil twin trope
-- Psychological horror
-- Questions of self and reality
+Active neurological and clinical study of autoscopy/heautoscopy continues; in 2022 a Cell Reports paper by Esteller and colleagues addressed the genetics of unrelated look-alikes.
 
 ---
+## Sources
 
-## Research & Investigation
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Leading Researchers
-
-| Name | Affiliation | Contribution |
-|------|-------------|--------------|
-| Dr. Olaf Blanke | EPFL (Switzerland) | Leading neurological research on autoscopy and OBEs |
-| Dr. Peter Brugger | University Hospital Zurich | Neurological and psychological autoscopy research |
-| Robert Dale Owen | Independent (1800s) | Documented Emilie Sagée case and other historical accounts |
-| Camille Flammarion | Astronomer/Researcher | Collected and analyzed historical doppelgänger accounts |
-
-### Research Organizations
-
-- **[Society for Psychical Research](https://www.spr.ac.uk)** — Historical investigation of apparitions and doubles
-- **[Laboratory of Cognitive Neuroscience (EPFL)](https://www.epfl.ch/labs/lnco/)** — Scientific research on bodily self-consciousness and autoscopy
-- **Neurological and psychiatric departments** — Ongoing clinical research
-
-### Ongoing Studies
-
-Current research focuses on:
-- **Neurological basis**: fMRI studies of autoscopic phenomena
-- **Brain stimulation**: Electrical stimulation reproducing doppelgänger experiences
-- **Psychological aspects**: Dissociation, identity, trauma studies
-- **Contemporary documentation**: Modern case collection and analysis
-- **Virtual reality**: Using VR to study body ownership and self-location
-
----
-
-## Neurological Basis (Scientific Understanding)
-
-### Autoscopy
-
-**Definition**: Seeing one's own body from an external, third-person perspective.
-
-**Neurological Mechanism**:
-- Dysfunction in **temporoparietal junction (TPJ)** — brain region integrating sensory information about body position and self-location
-- Disruption of multisensory integration (visual, tactile, proprioceptive, vestibular)
-- Brain creates external visual representation of the body
-
-**Triggers**:
-- Epilepsy (especially temporal lobe)
-- Migraine
-- Brain lesions or tumors
-- Extreme fatigue or stress
-- Electrical brain stimulation
-- Altered states of consciousness
-
-**Characteristics**:
-- Usually brief (seconds to minutes)
-- Double typically seen from front
-- Observer feels located in physical body
-- Often transparent or shadowy double
-
-### Heautoscopy
-
-**Definition**: More complex phenomenon where person sees their double and experiences confusion about which is "real" or where they are located.
-
-**Key Differences from Autoscopy**:
-- Stronger identification with the double
-- Uncertain self-location (am I here or there?)
-- May feel present in both locations
-- Stronger emotional component
-
----
 
 ## How to Report a Sighting
 
-If you've experienced a doppelgänger phenomenon, please consider documenting it:
-
-1. **GitHub Issue**: [Submit Case Report](../../issues/new?template=sighting_report.yml)
-2. **Required Information**:
-   - Date and time (as precise as possible)
-   - Location
-   - Type of manifestation (self-witness, others saw your double, etc.)
-   - Detailed description
-   - Witnesses (can be anonymized)
-   - Any neurological or psychological context (migraine, stress, etc.)
-   - Duration and circumstances
-
-**Privacy**: Reports can be anonymized. Medical information is optional but helpful for research.
-
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md) for submission requirements.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const doppelganger = await wyrd.getPhenomenon('doppelganger');
-const cases = await wyrd.getSightings('doppelganger');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/doppelganger/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Dale Owen, R. (1860). *Footfalls on the Boundary of Another World*. J.B. Lippincott.
-- Flammarion, C. (1923). *Death and Its Mystery*. The Century Co.
-- Goethe, J.W. (1811-1833). *Dichtung und Wahrheit* (Poetry and Truth).
-
-### Scientific Research
-
-- Blanke, O. et al. (2004). "Out-of-body experience and autoscopy of neurological origin." *Brain*, 127:243-258.
-- Brugger, P. (2002). "Reflections on the Doppelganger." *Neuropsychoanalysis*, 4:231-235.
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
-See [CHANGELOG.md](CHANGELOG.md) for full history.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Case](../../issues/new?template=sighting_report.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

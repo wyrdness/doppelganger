@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/doppelganger",
     "maintainers": [
       {
@@ -19,77 +19,186 @@
   "phenomenon": {
     "id": "doppelganger",
     "name": "Doppelgänger",
-    "aliases": [],
+    "aliases": [
+      { "name": "Doppelgaenger", "language": "German" },
+      { "name": "Double", "language": "English" },
+      { "name": "Fetch", "language": "English / Irish folklore", "meaning": "Wraith-like double whose appearance can foretell death" },
+      { "name": "Vardøger", "language": "Norwegian", "meaning": "Premonitory spirit precursor performing actions before the person" },
+      { "name": "Ka", "language": "Ancient Egyptian", "meaning": "Tangible spirit double" },
+      { "name": "Qarin", "language": "Arabic", "meaning": "Spirit double of the same sex and temperament in Islamic tradition" }
+    ],
     "category": "ANOMALY",
-    "subcategory": "of manifestation (self-witness, others saw your double, etc.)",
+    "subcategory": "Apparitional double of a living person",
     "tags": [
-      "folklore",
-      "mythology"
+      "apparition",
+      "double",
+      "bilocation",
+      "autoscopy",
+      "heautoscopy",
+      "psychic-phenomena",
+      "anomaly"
     ],
     "status": "documented",
     "description": {
-      "summary": "A doppelgänger (German for \\\"double-goer\\\" or \\\"double-walker\\\") is the apparitional double or duplicate of a living person.",
-      "full": "A doppelgänger (German for \\\"double-goer\\\" or \\\"double-walker\\\") is the apparitional double or duplicate of a living person. The phenomenon manifests in several forms: individuals seeing their own double (autoscopy), others witnessing someone in two places simultaneously (bilocation), or crisis apparitions where doubles appear at moments of danger or death. Historically considered an omen of death or bad luck in European folklore, the doppelgänger phenomenon spans cultures worldwide and has been documented throughout history. Famous cases include German writer Goethe meeting himself on a road, Abraham Lincoln's eerie double reflection in 1860, and the extensively documented case of French teacher Emilie Sagée (1845-46), whose double was witnessed by over 40 students and staff. Modern science recognizes some doppelgänger experiences as neurological conditions (autoscopy, heautoscopy) caused by dysfunction in the brain's temporoparietal junction, while other cases remain unexplained, bridging paranormal, psychological, and potentially quantum phenomena."
+      "summary": "The apparitional double of a living person, reported across many cultures and historical periods, sometimes seen by the person themselves and sometimes witnessed by others; modern neuroscience associates some experiences with autoscopy and heautoscopy linked to disturbances of the temporoparietal junction.",
+      "full": "A doppelgänger is the apparitional double or duplicate of a living person — German for 'double-walker'. The term was coined by the German Romantic novelist Jean Paul in his 1796 novel Siebenkäs, where it appears in a footnote with a meaning slightly distinct from later use. The phenomenon spans cultures: the Ancient Egyptian ka, the Norse vardøger, the Irish 'fetch', and the Islamic qarin all describe related ideas of a spirit double. Famous European cases include Goethe's autobiographical account in Dichtung und Wahrheit of meeting himself on horseback in unfamiliar clothing and meeting that same vision on the same road eight years later; Mary Shelley's record of Percy Bysshe Shelley meeting his own double in 1822 (shortly before his drowning); and the much-discussed case of the French teacher Émilie Sagée, whose double was reportedly witnessed at her school in Latvia in 1845. Vice-Admiral George Tryon's apparition was reportedly seen at his home in 1893 while he was actually commanding HMS Victoria in the Mediterranean during her fatal collision with HMS Camperdown. Modern psychiatric and neuroscientific work — including studies by Olaf Blanke and colleagues at EPFL — has shown that experiences of seeing one's double (autoscopy and heautoscopy) can be elicited by stimulation of the temporoparietal junction and are observed in temporal-lobe epilepsy and certain psychiatric conditions; Otto Rank's 1914 monograph and Sigmund Freud's 1919 essay 'Das Unheimliche' (The Uncanny) provide foundational psychoanalytic framing."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "German compound: Doppel ('double') + Gänger ('walker, goer')",
+      "meaning": "'Double-walker' or 'double-goer'",
+      "first_use": "1796 — Jean Paul (Johann Paul Friedrich Richter), Siebenkäs"
     }
   },
   "classification": {
     "taxonomy": {
       "category": "ANOMALY",
-      "type": "of manifestation (self-witness, others saw your double, etc.)",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Apparitional double of a living person",
+      "subtype": "Autoscopic / bilocational / crisis apparition",
+      "variant": "Cultural variants: ka, vardøger, fetch, qarin"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "bilocation", "name": "Bilocation", "relationship": "related", "description": "Reported simultaneous presence of one individual in two places" },
+      { "id": "crisis-apparition", "name": "Crisis apparition", "relationship": "related", "description": "Apparition of a person seen at a moment of crisis or death" },
+      { "id": "out-of-body-experiences", "name": "Out-of-body experiences", "relationship": "related", "description": "Phenomenologically related self-perception experiences" },
+      { "id": "vanishing-hitchhiker", "name": "Vanishing hitchhiker", "relationship": "related", "description": "Cultural narrative pattern involving doubles or revenants" }
+    ]
   },
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Identical appearance to the original", "description": "The double matches the living person's appearance, often including clothing", "frequency": "always" },
+        { "feature": "Silent", "description": "Reports often note that the double does not speak", "frequency": "common" },
+        { "feature": "Felt presence", "description": "Witnesses sometimes describe a sense of resistance or atmosphere when near the double (e.g., the Sagée case)", "frequency": "occasional" }
+      ],
+      "morphology": "A perceptual double of a living person, with no consistent physical characteristics beyond resemblance to the subject."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Crisis apparition", "description": "Said to appear at moments of danger or death of the person it doubles", "frequency": "occasional", "evidence_level": "reported" },
+      { "ability": "Autoscopy", "description": "The subject sees their own double, often externally projected at a short distance", "frequency": "common", "evidence_level": "documented" },
+      { "ability": "Heautoscopy", "description": "Subject sees a double and may experience confusion about which body is the self; clinically associated with temporal-lobe seizures", "frequency": "occasional", "evidence_level": "documented" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "variable",
+      "disposition": "neutral",
+      "social_structure": "solitary",
+      "habitat_preference": ["near the person doubled", "domestic and workplace settings"],
+      "patterns": [
+        "Often appears at moments of crisis, illness, or death (crisis apparition)",
+        "Frequently reported in cases of temporal-lobe epilepsy and certain psychiatric conditions"
+      ]
     }
   },
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
+      "description": "Reported worldwide across cultures and historical periods.",
+      "continents": ["Europe", "Asia", "Africa", "North America", "South America", "Oceania"],
       "countries": [],
-      "regions": []
+      "regions": [
+        "Northern Europe (vardøger, fetch traditions)",
+        "Germany (modern term)",
+        "Ancient Egypt (ka tradition)",
+        "Islamic world (qarin tradition)"
+      ]
     },
     "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "Pre-modern",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Doubles attested in Ancient Egyptian, Norse, Celtic, and Islamic traditions long before the modern German term"
+      },
+      "peak_activity_periods": [
+        { "period": "1796–1900", "description": "German Romantic literary tradition; Jean Paul, Goethe, Hoffmann, and others popularize the doppelgänger theme" },
+        { "period": "1880–1930", "description": "Society for Psychical Research and early psychoanalysis catalogue and theorize the experience" }
+      ]
     }
   },
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Cross-cultural concept of a spirit double, with parallel traditions in Ancient Egypt (ka), Norse Scandinavia (vardøger), Celtic Britain and Ireland (fetch), and the Islamic world (qarin).",
+      "earliest_accounts": "Concepts of a spirit double appear in some of the earliest extant religious and literary traditions; the modern German term itself dates to 1796.",
+      "folklore_connections": "Closely linked to wraith, fetch, vardøger, fylgja, and crisis-apparition traditions across Europe."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1796-01-01", "event": "Jean Paul coins 'Doppeltgänger' in his novel Siebenkäs", "significance": "Origin of the modern German term and its eventual English loanword", "source": "Jean Paul, Siebenkäs (1796)" },
+      { "date": "1822-07-08", "event": "Death of Percy Bysshe Shelley, whose 1822 doppelgänger encounters were recorded by Mary Shelley and Jane Williams", "significance": "Influential Romantic-era case anchored in a documented date of death", "source": "Mary Shelley correspondence" },
+      { "date": "1845-01-01", "event": "Reported doppelgänger of teacher Émilie Sagée at the Pensionat von Neuwelcke in Latvia", "significance": "Most-discussed 19th-century multi-witness case", "source": "Robert Dale Owen, Footfalls on the Boundary of Another World (1860)" },
+      { "date": "1893-06-22", "event": "HMS Victoria collides with HMS Camperdown, killing Vice-Admiral Sir George Tryon; his apparition is reportedly seen at his London home that day", "significance": "Frequently cited crisis-apparition / doppelgänger case anchored to a verifiable naval event", "source": "Society for Psychical Research case files" },
+      { "date": "1914-01-01", "event": "Otto Rank publishes Der Doppelgänger", "significance": "Foundational psychoanalytic study of the double", "source": "Rank, Der Doppelgänger (1914)" },
+      { "date": "1919-01-01", "event": "Sigmund Freud publishes 'Das Unheimliche' (The Uncanny)", "significance": "Establishes the doppelgänger as a key motif in the psychology of the uncanny", "source": "Freud, 'Das Unheimliche' (1919)" }
+    ],
+    "modern_era": "Modern neuroscience, especially work by Olaf Blanke and colleagues at the École polytechnique fédérale de Lausanne, has shown that autoscopy and heautoscopy can be reliably elicited by stimulation of the right temporoparietal junction and is observed in temporal-lobe epilepsy. A 2022 facial-recognition study reported that genuine non-related look-alikes share more SNP genetic similarity than expected by chance."
   },
   "sightings": {
     "statistics": {
       "total_documented": 0,
       "verified": 0,
       "disputed": 0,
-      "debunked": 0
+      "debunked": 0,
+      "date_range": { "earliest": "1796", "latest": "2026" }
     },
-    "notable": [],
+    "notable": [
+      {
+        "id": "doppelganger-sighting-goethe",
+        "name": "Goethe meets his own double",
+        "date": { "value": "1771-01-01", "precision": "approximate" },
+        "location": {
+          "description": "Road between Drusenheim and Sesenheim (Alsace, then France)",
+          "country": "France",
+          "region": "Alsace"
+        },
+        "witnesses": { "count": 1, "types": ["Johann Wolfgang von Goethe (self-witness)"], "credibility_factors": ["Recorded in Goethe's own autobiography Dichtung und Wahrheit"] },
+        "description": "Goethe wrote that as he rode away from Friederike Brion he saw himself, in unfamiliar clothing, riding toward him. Eight years later he found himself riding the same road in the very same clothing, and remarked on the recursive 'strangeness' of the experience.",
+        "credibility": { "rating": "medium", "factors": ["Famous autobiographical record", "First-person literary source"], "notes": "Often-cited literary case rather than independently corroborated incident." },
+        "sources": ["Goethe, Dichtung und Wahrheit, Book 11"],
+        "featured": true
+      },
+      {
+        "id": "doppelganger-sighting-shelley-1822",
+        "name": "Percy Bysshe Shelley sees his own double",
+        "date": { "value": "1822-06-01", "precision": "approximate" },
+        "location": {
+          "description": "Casa Magni, San Terenzo, Bay of Spezia",
+          "country": "Italy",
+          "region": "Liguria"
+        },
+        "witnesses": { "count": 2, "types": ["Percy Bysshe Shelley (self)", "Jane Williams"], "credibility_factors": ["Record preserved in Mary Shelley's correspondence", "Anchored by a verifiable date of death (Shelley drowned 8 July 1822)"] },
+        "description": "Mary Shelley recorded that Percy Bysshe Shelley reported encountering his own double, and separately that Jane Williams saw Shelley pass by a window in two impossible directions. Shelley drowned in the Gulf of Spezia weeks later.",
+        "credibility": { "rating": "medium", "factors": ["Multiple sources within the Shelley circle", "Anecdotal rather than corroborated"], "notes": "Often cited as a Romantic-era crisis apparition." },
+        "sources": ["Mary Shelley correspondence (1822)"],
+        "featured": true
+      },
+      {
+        "id": "doppelganger-sighting-sagee-1845",
+        "name": "Émilie Sagée doppelgänger at Pensionat von Neuwelcke",
+        "date": { "value": "1845-01-01", "precision": "approximate" },
+        "location": {
+          "description": "Pensionat von Neuwelcke (a girls' school), Livonia (modern-day Latvia)",
+          "country": "Latvia",
+          "region": "Livonia (then part of the Russian Empire)"
+        },
+        "witnesses": { "count": 42, "types": ["Pupils and staff of the Pensionat von Neuwelcke"], "credibility_factors": ["Multiple alleged eyewitnesses", "Account preserved in 19th-century psychical literature"] },
+        "description": "French teacher Émilie Sagée was reportedly observed in two places simultaneously by her students at a Latvian girls' school, with witnesses describing a felt resistance like that of fine muslin or crape when they passed close to the apparition.",
+        "credibility": { "rating": "low", "factors": ["Account is largely traceable to a single secondary source (Owen, 1860)", "No contemporary primary record"], "notes": "Famous in psychical literature but not independently corroborated by contemporary documents." },
+        "sources": ["Robert Dale Owen, Footfalls on the Boundary of Another World (1860)"],
+        "featured": true
+      },
+      {
+        "id": "doppelganger-sighting-tryon-1893",
+        "name": "Apparition of Vice-Admiral George Tryon at his London home",
+        "date": { "value": "1893-06-22", "precision": "exact" },
+        "location": {
+          "description": "Tryon residence, London",
+          "country": "United Kingdom",
+          "region": "England"
+        },
+        "witnesses": { "count": 0, "types": ["Family members and guests reported in second-hand accounts"], "credibility_factors": ["Anchored by the verifiable date of the HMS Victoria–HMS Camperdown collision"] },
+        "description": "On the day Vice-Admiral Sir George Tryon's HMS Victoria collided with HMS Camperdown off Tripoli, Lebanon, leading to his death and the loss of more than 350 sailors, his apparition was reportedly seen at his London home where Lady Tryon was hosting a reception.",
+        "credibility": { "rating": "low", "factors": ["Anchored to a verifiable disaster", "But the apparition account itself is anecdotal and not contemporaneously documented"], "notes": "Frequently cited as a crisis-apparition / doppelgänger case in psychical literature." },
+        "sources": ["Society for Psychical Research case literature"],
+        "featured": false
+      }
+    ],
     "database_path": "./sightings/"
   },
   "evidence": {
@@ -97,30 +206,123 @@
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "doppelganger-evidence-rank-1914",
+        "type": "monograph",
+        "name": "Otto Rank, Der Doppelgänger",
+        "date": "1914",
+        "description": "Foundational psychoanalytic monograph on the literary and psychological history of the double.",
+        "status": "verified",
+        "analysis": "Establishes the doppelgänger as a major theme in psychoanalytic theory, anticipated by the work of Freud.",
+        "source": "Rank, O. (1914)"
+      },
+      {
+        "id": "doppelganger-evidence-freud-1919",
+        "type": "essay",
+        "name": "Sigmund Freud, 'Das Unheimliche' (The Uncanny)",
+        "date": "1919",
+        "description": "Influential essay treating the doppelgänger as a structural example of the uncanny, building on Rank.",
+        "status": "verified",
+        "analysis": "Anchors the doppelgänger in 20th-century psychoanalytic theory.",
+        "source": "Freud, S. (1919) 'Das Unheimliche'"
+      }
+    ]
   },
   "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "paranormal": [
+      {
+        "name": "Spirit double / soul-projection",
+        "description": "Folk and esoteric interpretation in which the double is an externalization of the soul or astral body, sometimes appearing in advance of death (vardøger, fetch).",
+        "proponents": ["Folkloric tradition", "Spiritualist literature of the 19th century"],
+        "evidence_cited": ["Cross-cultural traditions of spirit doubles", "Crisis-apparition cases"]
+      },
+      {
+        "name": "Crisis apparition",
+        "description": "The double is interpreted as appearing at the moment of crisis or death of the person it represents.",
+        "proponents": ["Society for Psychical Research"],
+        "evidence_cited": ["Tryon-style cases anchored to verifiable disasters"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Autoscopy and heautoscopy (neurological)",
+        "description": "Self-perception of one's own body at a distance, associated with right temporoparietal-junction dysfunction, temporal-lobe epilepsy, migraine, and certain psychiatric conditions.",
+        "proponents": ["Olaf Blanke and colleagues at EPFL", "Modern clinical neurology"],
+        "evidence_cited": ["Direct cortical stimulation studies eliciting autoscopic phenomena", "Clinical case series"]
+      },
+      {
+        "name": "Genuine genetic look-alikes",
+        "description": "A 2022 Cell Reports study by Esteller and colleagues found that unrelated 'look-alikes' identified by François Brunelle's portrait project shared more single-nucleotide polymorphisms than chance, with shared variants linked to facial traits and behavioural phenotypes.",
+        "proponents": ["Manel Esteller et al. (2022)"],
+        "evidence_cited": ["Esteller et al. (2022) Cell Reports doppelgänger study"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Misidentification and confabulation",
+        "description": "Many cases reflect misidentification of similar-looking strangers, false memory, and post hoc narrative construction, particularly the 19th-century cases that survive only in secondary literature.",
+        "proponents": ["Modern skeptical literature on apparitional accounts"],
+        "evidence_cited": ["Wrongful-conviction cases driven by eyewitness misidentification of look-alikes"]
+      }
+    ]
   },
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Norwegian vardøger tradition",
+        "Irish/Celtic fetch tradition",
+        "Ancient Egyptian ka",
+        "Islamic qarin tradition"
+      ],
+      "stories": [
+        "Goethe's autobiographical doppelgänger (Dichtung und Wahrheit)",
+        "Émilie Sagée case",
+        "Tryon apparition (1893)"
+      ],
+      "beliefs": "In many traditions the appearance of one's double is read as an omen of crisis or imminent death."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
+      "literature": [
+        "Jean Paul, Siebenkäs (1796)",
+        "E. T. A. Hoffmann, Die Elixiere des Teufels (1815)",
+        "Edgar Allan Poe, 'William Wilson' (1839)",
+        "Fyodor Dostoevsky, The Double (1846)",
+        "Robert Louis Stevenson, The Strange Case of Dr Jekyll and Mr Hyde (1886)",
+        "José Saramago, The Double (2002)"
+      ],
+      "film_tv": [
+        "The Prestige (2006)",
+        "Enemy (2013)",
+        "Us (2019)",
+        "Twin Peaks (1990–1991, 2017)"
+      ],
+      "games": [
+        "Castlevania: Symphony of the Night (1997)"
+      ],
+      "other": [
+        "The 'Twin Strangers' and François Brunelle 'I'm Not a Look-Alike' photographic projects"
+      ]
     }
   },
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Otto Rank", "affiliation": "Vienna Psychoanalytic Society", "contribution": "Der Doppelgänger (1914), foundational psychoanalytic monograph", "period": "1914" },
+      { "name": "Sigmund Freud", "affiliation": "University of Vienna", "contribution": "'Das Unheimliche' (1919), positioning the doppelgänger within the theory of the uncanny", "period": "1919" },
+      { "name": "Olaf Blanke", "affiliation": "École polytechnique fédérale de Lausanne", "contribution": "Neuroscientific work on autoscopy, heautoscopy, and the temporoparietal junction", "period": "2000s–present" },
+      { "name": "Manel Esteller", "affiliation": "Josep Carreras Leukaemia Research Institute", "contribution": "2022 Cell Reports study of genetic similarity between unrelated look-alikes", "period": "2022" }
+    ],
+    "organizations": [
+      { "name": "Society for Psychical Research", "url": "https://www.spr.ac.uk", "focus": "Historical case files including doppelgänger and crisis-apparition reports" }
+    ],
+    "ongoing_studies": "Active neurological and clinical study of autoscopy/heautoscopy continues; in 2022 a Cell Reports paper by Esteller and colleagues addressed the genetics of unrelated look-alikes."
   },
-  "sources": []
+  "sources": [
+    { "id": "wikipedia-doppelganger", "type": "website", "title": "Doppelgänger", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Doppelg%C3%A4nger", "accessed": "2026-05-07" },
+    { "id": "rank-1914", "type": "book", "title": "Der Doppelgänger", "authors": ["Otto Rank"], "publication": "Imago", "date": "1914" },
+    { "id": "freud-1919", "type": "paper", "title": "Das Unheimliche", "authors": ["Sigmund Freud"], "publication": "Imago", "date": "1919" },
+    { "id": "owen-1860", "type": "book", "title": "Footfalls on the Boundary of Another World", "authors": ["Robert Dale Owen"], "publication": "J. B. Lippincott", "date": "1860" },
+    { "id": "goethe-dichtung", "type": "book", "title": "Dichtung und Wahrheit", "authors": ["Johann Wolfgang von Goethe"], "date": "1811-1833" }
+  ]
 }
